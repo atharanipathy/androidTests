@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemeCreator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bindText">Click here!</string>
+    <string name="BottomText">Bottom Text</string>
+    <string name="TopText">Top Text</string>
+</resources>
